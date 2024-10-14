@@ -1,8 +1,9 @@
+
+![Olink Project Image](https://crimson-peaceful-impala-136.mypinata.cloud/ipfs/QmdZreNZey7hjzEbxKdLTAcCUD1KPTniaJcEsVAkDdkQ5Y "Olink on IPFS")
+
 # Olink
 
 Olink leverages blockchain technology to empower urban communities by enabling them to manage and improve their local ecosystems through regenerative gardening practices. This project aims to promote sustainable urban agriculture with a focus on transparency and community engagement.
-
-![Olink Project Image](https://crimson-peaceful-impala-136.mypinata.cloud/ipfs/QmdZreNZey7hjzEbxKdLTAcCUD1KPTniaJcEsVAkDdkQ5Y "Olink on IPFS")
 
 ## Features
 
